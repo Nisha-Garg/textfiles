@@ -2,4 +2,4 @@ hey i just start learning git
 it seems very interesting
 now i just want to merge changes
 
-now just want to edit same line by master1 branch
+now just want to edit same line by master1 branch.
